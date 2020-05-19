@@ -27,18 +27,16 @@ People over the age of 65 years are more likely to develop severe illnesses or d
 People with chronic lung disease or moderate or severe asthma.
 People who are immuno-compromised, These include:-
 
-cancer treatments,
-Smoking,
-Bone marrow or organ transplantation
-Immune deficiencies
-Poorly controlled HIV/AIDS
-
-Severe obesity
-
-Prolonged use of corticosteroids
-Diabetes
-Chronic kidney disease
-Liver disease
+cancer treatments,<br>
+Smoking,<br>
+Bone marrow or organ transplantation<br>
+Immune deficiencies<br>
+Poorly controlled HIV/AIDS<br>
+Severe obesity<br>
+Prolonged use of corticosteroids<br>
+Diabetes<br>
+Chronic kidney disease<br>
+Liver disease<br>
 see link from the center for disease control.
 
 Project Goal:
@@ -62,22 +60,22 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 
 Columns:
 
-Pregnancies:
+<br>Pregnancies:
 Number of times pregnant
-GlucosePlasma:
+<br>GlucosePlasma:
 glucose concentration a 2 hours in an oral glucose tolerance test
-BloodPressureDiastolic:
+<br>BloodPressureDiastolic:
 blood pressure (mm Hg)
-SkinThicknessTriceps: skin fold thickness (mm)
-SerumInsulin:
+<br>SkinThicknessTriceps: skin fold thickness (mm)
+<br>SerumInsulin:
 2-Hour serum insulin (mu U/ml)
-BMIBody:
+<br>BMIBody:
 Body mass index (weight in kg/(height in m)^2)
-DiabetesPedigreeFunction:
+<br>DiabetesPedigreeFunction:
 Diabetes pedigree function
-Age:
+<br>Age:
 Age (years)
-OutcomeClass:
+<br>OutcomeClass:
 Variable (0 or 1), 0 representing Non-diabetic and 1 Diabetic.
 
 
